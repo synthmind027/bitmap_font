@@ -1,7 +1,7 @@
 # Bitmap font
 ```
 python main.py
-600x600
+600px x 600px
 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789_,"'?!@ *#$%&()+-/:;<=>[\]^`{|}~ 
 ```
 ### Final output (bitmap_font.png)
